@@ -6,7 +6,9 @@ A statistical research on the effects of mental heatlh on students cgpa and depr
 
 ## Fastapi
 
-![Alt Text](fastapi.png)
+![Alt Text](fastapi1.png)
+
+![Alt Text](fastapi2.png)
 
 ## Flask
 
