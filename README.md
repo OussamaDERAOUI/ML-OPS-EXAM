@@ -10,6 +10,12 @@ The project leverages MLflow, a powerful open-source platform for managing the e
 ## About Dataset
 A statistical research on the effects of mental heatlh on students cgpa and depression dataset. This Data set was collected by a survey conducted by Google forms from University student in order to examine their current academic situation and mental health.
 
+![Alt Text](dataset.png)
+
+After preprocessing
+
+![Alt Text](prepro.png)
+
 ## Project Objectives:
 
 ### Data Preprocessing and Model Training:
