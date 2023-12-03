@@ -39,11 +39,13 @@ Develop a Flask application to consume the FastAPI-based model endpoints, showca
 
 
 ## Ml Flow
-Here is a screen shot of the mlflow logging accuracy results :
+Here is a screenshot of the mlflow logging accuracy results :
+
 ![Alt Text](mlflow.png)
 
 ## Fastapi
 Here is screenshots of an input prediction in fastapi :
+
 ![Alt Text](fastapi1.png)
 
 ![Alt Text](fastapi2.png)
@@ -51,6 +53,7 @@ Here is screenshots of an input prediction in fastapi :
 ## Flask7
 
 Here is screenshots of an input prediction in flask and its index html form :
+
 ![Alt Text](flaskapi.png)
 
 ![Alt Text](flaskapi.png)
